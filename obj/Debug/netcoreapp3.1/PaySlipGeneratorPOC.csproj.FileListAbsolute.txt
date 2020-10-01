@@ -1,0 +1,13 @@
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.exe
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.deps.json
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.runtimeconfig.json
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.runtimeconfig.dev.json
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.dll
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\bin\Debug\netcoreapp3.1\PaySlipGeneratorPOC.pdb
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.AssemblyInfoInputs.cache
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.AssemblyInfo.cs
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.csproj.CoreCompileInputs.cache
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.dll
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.pdb
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.genruntimeconfig.cache
+C:\Users\BahniChakraborty\source\repos\PaySlipGeneratorPOC\PaySlipGeneratorPOC\obj\Debug\netcoreapp3.1\PaySlipGeneratorPOC.csprojAssemblyReference.cache
