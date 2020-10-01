@@ -1,1 +1,7 @@
 # repository_Bahni
+
+This is a console application taking 3 inputs from user i.e. 
+1. taxfilepath- Provide the full path for 'TaxSlabs.csv' (attached)
+2. inputfilepath- Provide the full path for employee input data 'EmployeeData1.csv' (attached)
+3. outputFilePath- Provide the full path where employee output data  will be saved. The name will be 'EmployeeOutputData_DateTime(yyyyMMddhhmm).csv' (attached)
+
