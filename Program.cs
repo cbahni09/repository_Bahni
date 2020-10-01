@@ -138,7 +138,8 @@ namespace PaySlipGeneratorPOC
                 sb.Remove(sb.Length - 1, 1);
                 sb.AppendLine();
             }
-            File.WriteAllText(strFilePath, sb.ToString());
+            string filename = strFilePath + "EmployeeOutPutData_" + System.DateTime.Today.ToString("yyyyMMddhhmm")+".csv";
+            File.WriteAllText(filename, sb.ToString());
         }
 
         public static string WriteCSV(string input)
