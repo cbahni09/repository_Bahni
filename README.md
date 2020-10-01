@@ -8,5 +8,10 @@ This is a console application taking 3 inputs from user i.e.
 Example:
 
 taxfilepath- C://Users//BahniChakraborty//Desktop//TaxSlabs.csv
+
 inputfilepath - C://Users//BahniChakraborty//Desktop//EmployeeData1.csv
+
 outputFilePath - C://Users//BahniChakraborty//Desktop//
+
+
+Assumption: Tax slab max amount is 9999999, where the slab starts from 180001
